@@ -1,6 +1,6 @@
 ```python
 #there is a array, full of 0 and 1 
-#outpu format[0,0,0,0,1,1,1]
+#output format[0,0,0,0,1,1,1]
 #example [1,0,1,0] >>> [0,0,1,1]
 
 a = [0,0,1,1,0,0,1,1,0,0,0,0]
